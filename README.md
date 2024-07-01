@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="[workflows](https://github.com/git-prabod/git-prabod/blob/main/workflows)" alt="Snake animation" />
+<img src="https://github.com/git-prabod/git-prabod/blob/main/workflows" alt="Snake animation" />
 
 ###
