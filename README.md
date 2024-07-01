@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/git-prabod/git-prabod/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/git-prabod/git-prabod/blob/main/snake.svg" alt="Snake animation" />
 
 ###
