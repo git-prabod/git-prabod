@@ -32,10 +32,6 @@ Whether you're passionate about technology, a fellow game development enthusiast
   <img height=200 src="https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-light2&card_width=810#gh-light-mode-only" />
 </a>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
