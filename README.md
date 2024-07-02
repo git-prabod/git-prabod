@@ -35,6 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prabod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prabod" /></a></p><br><br>
 
-<p><img style="margin:20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-prabod&show_icons=true&locale=en&layout=compact" alt="git-prabod" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-prabod&show_icons=true&locale=en&layout=compact" alt="git-prabod" /></p><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-prabod&show_icons=true&locale=en" alt="git-prabod" /></p>
