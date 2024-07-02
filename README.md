@@ -6,21 +6,16 @@
 
 
 ## 🌍 About Me
-I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer and Information Systems as a Master's student at University of Aizu in Japan.
+I'm originally from the SRI LANKA 
 
 ## 🎓 Education
-- **Bachelor's Degree in Engineering, Major in E-Commerce**  
-  Northwestern Polytechnical University, China
-- **Japanese Language Studies**  
-  1.5 years at a Language School in Tokyo, Japan
-- **Master's student in CIS**  
-  University of Aizu, Japan
+- **A/L TECHNOLOGY STREAM**  
+  WALASMULLA NATIONAL SCHOOL, SRI LANKA
+- **HACKING**  
+  KALI LINUX
+- **Master's student**  
+  NO
 
-## 💻 Tech Interests
-I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
-
-## 🎮 Why Game Development?
-The creativity and technology behind games fascinate me. From storyline crafting to character development and programming, each aspect of game development provides a canvas to innovate and entertain.
 
 ## 🤝 Let's Collaborate
 Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
