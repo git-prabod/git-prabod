@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)<br\>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
@@ -84,6 +86,6 @@ Whether you're passionate about technology, a fellow game development enthusiast
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
 
 
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+
 
 </div>
